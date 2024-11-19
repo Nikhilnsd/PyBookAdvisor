@@ -101,9 +101,5 @@ The system recommends books based on the input.
 - Flask
 - Required libraries: Pandas, NumPy, Scikit-learn
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/PyBookAdvisor.git
-# test
+
 # test
